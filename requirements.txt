@@ -1,4 +1,5 @@
 # Streamlit Cloud-friendly dependencies
+# TensorFlow 2.15.0 is only compatible with Python 3.9-3.11.
 streamlit>=1.38.0,<2.0
 numpy<2.0
 pillow>=10.0,<12.0
