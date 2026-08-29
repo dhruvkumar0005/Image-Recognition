@@ -11,7 +11,7 @@ It uses MobileNetV2 for general image classification to predict object types suc
 
 ## Requirements
 
-- Python 3.11
+- Python 3.11.9
 - TensorFlow
 - Streamlit
 - Pillow
